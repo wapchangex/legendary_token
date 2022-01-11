@@ -3,8 +3,8 @@
 pragma solidity ^0.7.4;
 
 contract Legendary {
-    string public name = "Legendary Token";
-    string public symbol = "LGT";
+    string public name = "MYWAP Token";
+    string public symbol = "WAY";
     uint256 public totalSupply = 1000000000000000000000000; // 1 million tokens
     uint8 public decimals = 18;
     
